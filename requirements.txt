@@ -4,7 +4,7 @@ TgCrypto
 Dnspython
 datetime
 pytz
-git+https://github.com/KurimuzonAkuma/pyrogram.git
+#git+https://github.com/KurimuzonAkuma/pyrogram.git
 
 #----app.py----#
 Flask==1.1.2
